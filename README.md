@@ -1,7 +1,5 @@
 # Customer Churn Prediction Dashboard
 
-![Churn Prediction Dashboard](https://github.com/username/customer-churn-prediction/raw/main/screenshot.png)
-
 > An interactive web application that predicts customer churn probability using machine learning.
 
 ## 📋 Overview
@@ -57,7 +55,7 @@ Make sure you have the following files in your project directory:
 
 1. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run FinalApp.py
    ```
 
 2. Access the application in your web browser at `http://localhost:8501`
@@ -122,9 +120,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📞 Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@example.com
 
 Project Link: [https://github.com/username/customer-churn-prediction](https://github.com/username/customer-churn-prediction)
 
