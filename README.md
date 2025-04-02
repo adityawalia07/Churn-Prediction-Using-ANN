@@ -120,9 +120,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-Project Link: [https://github.com/username/customer-churn-prediction](https://github.com/username/customer-churn-prediction)
-
 ---
+## Output
 
-Made with ❤️ by [Your Name]
